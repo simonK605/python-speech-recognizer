@@ -23,7 +23,6 @@ python your_script_name.py
 Ensure that your audio file is in the correct format (WAV) and update the file path accordingly. The script will print whether speech is detected, not detected, or if there is an error with the API request.
 
 
-
 ### Contributing
 Feel free to contribute to the development of this project. Follow these steps:
 
@@ -32,3 +31,7 @@ Feel free to contribute to the development of this project. Follow these steps:
 3. Commit your changes: git commit -m 'Add some feature'.
 4. Push to the branch: git push origin feature/your-feature.
 5. Submit a pull request.
+
+
+### License
+This project is licensed under the MIT License 
